@@ -2,13 +2,13 @@
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/Readmelogo.png)
 
 ## Brief Background
-This application utilizes publicly traded companies' financial data such as Equity (ROE), Free Cash flow over equity, Forward growth rate, and valuation in order to access the viability of an investment in a publicly traded company.
+This application utilizes publicly traded companies' financial data such as Equity (ROE), Free Cash flow over Equity, Forward Growth Rate, and Valuation in order to access the viability of an investment in a publicly traded company.
 
 ## Who it is for?
-Any investor who is interested in learning the fundaments of a company including Return on Equity (ROE), Free Cash flow over equity, Forward growth rate, and valuation.
+Any investor who is interested in learning the fundamentals of a company including Return on Equity (ROE), Free Cash flow over Equity, Forward Growth Rate, and Valuation.
 
 ## Benefits
-Currently, there are not many applications available which look at all the elements required to do the valuation without involving manual work. This application will automate fetching the data from public sources and the calculations hence eliminating the need for manual calculations.
+Currently, there are not many applications available which look at all the elements required to do the valuation without involving manual work. This application automates fetching the data from public sources and the calculations hence eliminating the need for manual calculations.
 
 ## Approach of the Project - Code Structure
 
@@ -23,7 +23,7 @@ Currently, there are not many applications available which look at all the eleme
 
 ## Technologies
 
-Before Execute the Python Code in 'stocks_analysis.ipynb' Please install new library in your environment
+Before executing the Python Code in 'stocks_analysis.ipynb', please install new library in your environment:
 
 Pip install fundamentalanalysis
 
@@ -37,7 +37,7 @@ Functions included
 - ratios
 - Stock Data
 
-pTools utilized:
+Tools utilized:
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module
 * [hvplot](https://hvplot.holoviz.org/getting_started/index.html) - High-level plotting API for PyData ecosystem built
 * User Input
